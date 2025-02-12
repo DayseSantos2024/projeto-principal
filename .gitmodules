@@ -1,0 +1,4 @@
+[submodule "submodulo"]
+	path = submodulo
+	url = https://github.com/DayseSantos2024/submodule-quantum-core.git
+	branch = main
